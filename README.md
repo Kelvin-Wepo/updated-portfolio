@@ -1,2 +1,1 @@
-# django-portfolio
-# updated-portfolio
+# My Portfolio
